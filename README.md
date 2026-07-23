@@ -9,7 +9,7 @@
 </a>
 
 <!-- Open to Work Badge -->
-<img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=data:image/png;base64,&logoColor=white&labelColor=1a1a1a" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&labelColor=1a1a1a" alt="Open to Work"/>
 
 <!-- Profile Views & Followers -->
 <img src="https://komarev.com/ghpvc/?username=SAAD-MOMIN-37&color=7DD3FC&style=flat-square&label=Profile+Views" alt="Profile Views"/>
@@ -48,8 +48,6 @@ saad_momin = {
 
 ### 🩺 Breast Cancer Prediction System
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SAAD-MOMIN-37&repo=Breast-Cancer-Prediction-&theme=nord&border_color=7DD3FC&title_color=7DD3FC" alt="Breast Cancer Prediction System"/>
-
 Compared 8 ML models on 569 patient records across 30 features, achieving **98.25% accuracy** and **99.80% ROC-AUC** with tuned Logistic Regression and SVM models, optimized via SMOTE and GridSearchCV.
 
 | Layer | Technology |
@@ -65,8 +63,6 @@ Compared 8 ML models on 569 patient records across 30 features, achieving **98.2
 
 ### 📈 Stock Price Prediction System
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SAAD-MOMIN-37&repo=Stock-Price-Prediction-&theme=nord&border_color=7DD3FC&title_color=7DD3FC" alt="Stock Price Prediction System"/>
-
 Built a GRU + LSTM neural network with 747K parameters, trained on 851,264 records spanning 501 S&P 500 companies, forecasting price changes for Amazon and Google.
 
 | Layer | Technology |
@@ -81,8 +77,6 @@ Built a GRU + LSTM neural network with 747K parameters, trained on 851,264 recor
 <br clear="right"/>
 
 ### 🎬 Movie Recommendation System
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SAAD-MOMIN-37&repo=Movie-Recommender-System&theme=nord&border_color=7DD3FC&title_color=7DD3FC" alt="Movie Recommendation System"/>
 
 Content-based recommendation engine covering 4,806 movies using TF-IDF vectorization (5,000 features) and Cosine Similarity, with genre/cast/crew/plot feature design.
 
@@ -122,24 +116,15 @@ Content-based recommendation engine covering 4,806 movies using TF-IDF vectoriza
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=SAAD-MOMIN-37&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SAAD-MOMIN-37&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAAD-MOMIN-37&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC" alt="Top Languages" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=SAAD-MOMIN-37&theme=nord&border=7DD3FC&ring=7DD3FC&fire=7DD3FC" height="170" alt="GitHub Streak"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=SAAD-MOMIN-37&theme=nord&border=7DD3FC&ring=7DD3FC&fire=7DD3FC" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SAAD-MOMIN-37&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SAAD-MOMIN-37&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC" height="170" alt="Top Languages"/>
+</p>
 
 ## 📈 Contribution Graph
 
