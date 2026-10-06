@@ -265,7 +265,11 @@ Worked on data science and analytical workflows involving data processing, analy
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SAAD-MOMIN-37&bg_color=070B16&color=7DD3FC&line=247BFF&point=FFFFFF&area=true&hide_border=true" width="96%" alt="GitHub Contribution Graph"/>
+<img
+  src="./assets/activity-graph.svg"
+  width="96%"
+  alt="GitHub Contribution Activity"
+/>
 
 </div>
 
